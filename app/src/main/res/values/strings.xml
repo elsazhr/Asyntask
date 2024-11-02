@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asyntask</string>
+    <string name="click_button_to_start_download">Click Button to Start Download</string>
+    <string name="start">Start</string>
+</resources>
